@@ -14,7 +14,7 @@ const AppRoutes = () => {
         className="flex"
       >
         <Sidebar />
-        <main className="flex-1 p-6 bg-gray-100">
+        <main className="flex-1 p-6 bg-gray-100 ml-64">
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/todo" element={<Todo />} />

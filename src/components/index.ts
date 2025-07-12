@@ -1,3 +1,5 @@
-import Sidebar from './Sidebar';
+import Sidebar from "./Sidebar";
+import ExpensesCard from './ExpensesCard';
+import Modal from "./modal";
 
-export {Sidebar};
+export { Sidebar, ExpensesCard, Modal };

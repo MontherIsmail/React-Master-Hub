@@ -11,7 +11,7 @@ const Sidebar = () => {
   ];
 
   return (
-    <div className="w-64 h-screen shadow-xl text-white p-4">
+    <div className="w-64 h-screen fixed shadow-xl bg-white text-white p-4">
       <h5 className="text-2xl font-bold text-gray-900 mb-10 mt-2">
         React Master Hub
       </h5>
